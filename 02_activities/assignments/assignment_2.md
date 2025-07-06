@@ -12,22 +12,49 @@
       ```
       Your answer...
 
+--- Bad visualization : 
+https://public.tableau.com/app/profile/andy.kriebel/viz/MakeoverMonday2025Week7-ValentinesDayCandyPreferences/MM2025W7
+
+Why is bad ? 
+
+1- Misleading Title and Design
+2- It doesn’t differentiate the 70% visually, so the map provides no way to validate the claim.
+3- It’s unclear why a map was even used, since the visualization doesn’t communicate anything geographic.
+4- Lack of Data Detail
 
 
+--- Good visualization: 
+https://public.tableau.com/app/profile/andy.kriebel/viz/NYCTaxiTripsNext-LevelTableau/NYCTaxiTrips
 
+Why is good ? 
 
+1- Clear and Focused Title: Simple and direct language invites exploration.
 
+2- Effective Use of a Map : It's not just decorative—it shows geographic distribution of taxi trips visually and meaningfully.
+
+3- Simple, Clean Design: This makes it easy to read and navigate, even for someone unfamiliar with data visualization.
 
       ```
     - How could this data visualization have been improved?  
       ```
       Your answer...
 
+--- https://public.tableau.com/app/profile/andy.kriebel/viz/MakeoverMonday2025Week7-ValentinesDayCandyPreferences/MM2025W7
+
+1- Fix the Labels : Ensure that each state is labeled clearly and separately.
+2-  Make the Title Informative: Chocolate Tops Valentine’s Candy Preference in 35 States 
+3- Include a bar chart or pie chart beside the map:
+
+Bar chart: Chocolate vs. Other Types 
+Pie chart: % of total preferences by candy type
+
+4- Make the Map Purposeful: Make sure it provides geographic insights (patterns by region—do southern states prefer chocolate more?)
 
 
+--- https://public.tableau.com/app/profile/andy.kriebel/viz/NYCTaxiTripsNext-LevelTableau/NYCTaxiTrips
 
-
-
+1- Show Numeric Information: Exact number of trips per location
+2- Add Time Filters : Day of the week
       
       ```
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
