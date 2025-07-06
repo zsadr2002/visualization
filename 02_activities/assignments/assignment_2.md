@@ -10,9 +10,7 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
-
---- Bad visualization : 
+      --- Bad visualization : 
 https://public.tableau.com/app/profile/andy.kriebel/viz/MakeoverMonday2025Week7-ValentinesDayCandyPreferences/MM2025W7
 
 Why is bad ? 
@@ -34,12 +32,12 @@ Why is good ?
 
 3- Simple, Clean Design: This makes it easy to read and navigate, even for someone unfamiliar with data visualization.
 
+
+
       ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
-
---- https://public.tableau.com/app/profile/andy.kriebel/viz/MakeoverMonday2025Week7-ValentinesDayCandyPreferences/MM2025W7
+      --- https://public.tableau.com/app/profile/andy.kriebel/viz/MakeoverMonday2025Week7-ValentinesDayCandyPreferences/MM2025W7
 
 1- Fix the Labels : Ensure that each state is labeled clearly and separately.
 2-  Make the Title Informative: Chocolate Tops Valentine’s Candy Preference in 35 States 
@@ -55,6 +53,8 @@ Pie chart: % of total preferences by candy type
 
 1- Show Numeric Information: Exact number of trips per location
 2- Add Time Filters : Day of the week
+
+
       
       ```
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
